@@ -16,7 +16,7 @@
     "dotenv": "^6.2.0",
     "epilogue": "^0.7.1",
     "express": "^4.16.4",
-    "lodash": ">=4.17.13",
+    "lodash": ">=4.17.19",
     "express-session": "^1.15.6",
     "sequelize": "^5.15.1",
     "sqlite3": "^4.0.4"
